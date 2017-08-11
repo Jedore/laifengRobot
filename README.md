@@ -1,7 +1,14 @@
-## laifengRobot
+### 来疯场控机器人
 
-平台实时聊天使用websocket协议,此机器人通过websocket协议链接登录服务器,
-对服务器推送过来的实时信息做出相应的处理应答，如进入频道、转粉、礼物、星星等，
-定时发送一些提示性的信息.
-
-### link:   [JEDORE BLOG](http://www.jedore.club)
+- Cookies
+chrome浏览器登陆来疯平台，通过chrome浏览器F12，获取websocket cookies.
+laifeng.conf
+roomid #房间号
+userid #来疯账号id
+mk #对应cooikes中mk
+token #对应cooikes中imk
+yktk #填空
+isPushHis = 0 #主播是否在线
+ws_host = normal01.chatroom.laifeng.com #websocket服务器地址
+- laifengRobot.py
+- [jedoreclub](http://www.jedore.club/article-detials/18)
