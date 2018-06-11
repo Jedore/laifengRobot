@@ -11,4 +11,4 @@ yktk #填空
 isPushHis = 0 #主播是否在线
 ws_host = normal01.chatroom.laifeng.com #websocket服务器地址
 - laifengRobot.py
-- [jedoreclub](http://www.jedore.club/article-detials/18)
+- [jedoreclub](http://www.jedoremad.com)
