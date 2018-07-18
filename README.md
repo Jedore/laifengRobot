@@ -9,7 +9,7 @@
 
   chrome浏览器登陆来疯平台，通过chrome浏览器F12，获取websocket cookies.
 
-  laifeng.conf
+- laifeng.conf
 
   roomid #房间号
 
